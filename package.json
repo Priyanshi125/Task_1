@@ -1,0 +1,12 @@
+{
+  "name": "firstdummy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^6.4.4",
+    "underscore": "^1. 12.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
